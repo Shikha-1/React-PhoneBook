@@ -1,0 +1,19 @@
+{
+  "contacts":[
+    {
+    "name":"Shukla",
+    "email":"shukh12@gmail.com",
+    "id":"1"
+    },
+    {
+    "name":"Shekhar",
+    "email":"sekartilak13@gmail.com",
+    "id":"2"
+    },
+    {
+    "name":"Pooja",
+    "email":"Pooja2@gmail.com",
+    "id":"3"
+    }
+  ]
+}
