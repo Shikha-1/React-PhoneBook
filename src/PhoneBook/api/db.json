@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": "1624918164966",
+      "name": "Shikha",
+      "phone": "9128671745",
+      "email": "shikhakumarisingh4@gmail.com"
+    },
+    {
+      "id": "1624918327000",
+      "name": "Ankit ",
+      "phone": "9120987654",
+      "email": "banbzaMBX@gmail.com"
+    },
+    {
+      "id": "1624918471974",
+      "name": "aarti",
+      "phone": "1234567890",
+      "email": "abc5678901@gmail.com"
+    }
+  ]
+}

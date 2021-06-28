@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import user from "../images/user.jpg";
 
 const ContactDetail = (props) => {
+  console.log(props)
   const { name, email } = props.location.state.contact;
   return (
     <div className="main">

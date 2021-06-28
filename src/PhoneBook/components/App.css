@@ -9,11 +9,15 @@
 
 .ui.search input {
   width: 100%;
-  border-radius: 0 !important;
+  border-radius: 0.5rem !important;
 }
 
 .item {
   padding: 15px 0px !important;
+}
+
+.ui.icon.input{
+  width: 100%;
 }
 
 i.icon {
